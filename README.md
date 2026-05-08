@@ -1,4 +1,14 @@
-# 👨‍💻 About Me<br><br>Hi, I'm Gaurav Yadav, a passionate and motivated Web Developer with a strong interest in building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world digital solutions using technologies like HTML, CSS, JavaScript, PHP, MySQL, React, and Bootstrap<br><br>I enjoy creating clean UI designs, developing dynamic web applications, and continuously exploring new technologies to improve my development skills. I believe in writing efficient code, solving real-world problems, and building projects that provide smooth and engaging user experiences.<br><br>🚀 Passionate about Web Development<br>💡 Interested in Full Stack Development & UI/UX<br>🏆 Competitive Programmer & Tech Enthusiast<br>📚 Continuous Learner & Problem Solver<br>
+## 👨‍💻 About Me
+
+Hi, I'm **Gaurav Yadav**, a passionate and motivated **Web Developer** with a strong interest in building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world digital solutions using technologies like **HTML, CSS, JavaScript, PHP, MySQL, React, and Bootstrap**.
+
+I enjoy creating clean UI designs, developing dynamic web applications, and continuously exploring new technologies to improve my development skills. I believe in writing efficient code, solving real-world problems, and building projects that provide smooth and engaging user experiences.
+
+🚀 Passionate about Web Development
+💡 Interested in Full Stack Development & UI/UX
+🏆 Competitive Programmer & Tech Enthusiast
+📚 Continuous Learner & Problem Solver
+
 
 
 ## 🌐 Socials:
